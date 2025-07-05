@@ -1,0 +1,2 @@
+# scraping_max_titanium
+ Scraper em Python para coletar dados nutricionais de produtos do site da Max Titanium. Extrai informações como nome, descrição e tabela nutricional de forma automatizada, ideal para projetos de análise de suplementos, integração com bases de dados ou comparativos nutricionais.Scraper em Python para coletar dados nutricionais de produtos do site da Max Titanium. Extrai informações como nome, descrição e tabela nutricional de forma automatizada, ideal para projetos de análise de suplementos, integração com bases de dados ou comparativos nutricionais.
